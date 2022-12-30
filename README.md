@@ -51,4 +51,4 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## RESULT
 
-Program executed successfully
+Program for ORM  is executed successfully
